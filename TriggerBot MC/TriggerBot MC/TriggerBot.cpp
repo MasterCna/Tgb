@@ -10,7 +10,6 @@ void ScanThread(ScanContents* scan);
 int main()
 {
 
-	//Test
 	std::string gameWindow;
 	std::cout << "Enter Game Window To TriggerBot" << std::endl;
 
