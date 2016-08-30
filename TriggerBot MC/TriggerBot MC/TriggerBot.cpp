@@ -1,3 +1,14 @@
+/*
+==================================================
+
+			TriggerBot By MasterCna
+
+				Email: n0is3@ymail.com
+
+==================================================
+*/
+
+
 #include "Scan.h"
 #include <process.h>
 
@@ -9,7 +20,6 @@ void ScanThread(ScanContents* scan);
 
 int main()
 {
-
 	std::string gameWindow;
 	std::cout << "Enter Game Window To TriggerBot" << std::endl;
 

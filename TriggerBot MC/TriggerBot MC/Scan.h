@@ -1,3 +1,14 @@
+/*
+==================================================
+
+			TriggerBot By MasterCna
+
+				Email: n0is3@ymail.com
+
+==================================================
+*/
+
+
 #pragma once
 #include <windows.h>
 #include <iostream>
